@@ -100,3 +100,18 @@ Kanban 看板 is a Trello clone in Rails and Backbone.js
 * [Queries and Issues](https://github.com/seanomlor/kanban/issues) - Use issues for more questions.
 
 ![Kanban](/images/Kanban.png)
+
+
+### [Taskade](https://taskade.com)
+
+Taskade is a real-time organization and collaboration tool that lets you create kanban boards instantly.
+
+* Development status - *Active*
+* Official website: https://www.taskade.com
+* [Demo](https://www.taskade.com/new)
+* [Examples](https://www.taskade.com/templates)
+* Taskade Features - Not mentioned
+* Roadmap - https://www.taskade.com/v/B1Q8lMxIfG
+* [Activities](https://github.com/taskade) 
+
+![Taskade Demo](/images/taskade-board.png)
